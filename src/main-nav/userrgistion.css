@@ -1,0 +1,38 @@
+#user-div{
+    border: 2px solid black;
+    margin: 20px;
+    text-align: center;
+    background-color: rgba(18 70 60 / 39%);;
+
+}
+.user-h1{
+    padding: 10px;
+    color: greenyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
+
+.user-text{
+    font-size: xx-large;
+    font-family: cursive;
+    font-style: oblique;
+    padding: 11px;
+}
+.user-input{
+    margin: 25px;
+    padding: 6px;
+    border: none;
+    font-style: oblique;
+    border-radius: 5%;
+    border: 1px solid lightblue;
+    width: 27%;
+}
+.user-btn{
+    margin: 20px;
+    color: lightsalmon;
+    border: none;
+    border: 2px solid brown;
+    font-size: 20px;
+    border-radius: 8%;
+    padding: 5px;
+    font-weight: bold;
+}

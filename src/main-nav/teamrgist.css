@@ -1,0 +1,27 @@
+#rgist-team{
+    border: 2px solid black;
+    text-align: center;
+    margin: 15px;
+    padding: 20px;
+    background-color: lightcoral;
+}
+.rgist-h1{
+    color: crimson;
+    font-style: inherit;
+    padding: 12px;
+
+}
+.rgist-lebel{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.team-rgist-input{
+    margin: 20px;
+    
+}
+.rgist-team-btn{
+    padding: 8px;
+    border-radius: 14px;
+    font-weight: bold;
+}

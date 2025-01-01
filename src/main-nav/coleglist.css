@@ -1,0 +1,33 @@
+#successclg{
+    border: 2px solid orangered;
+    margin: 3%;
+    padding: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#clg-table th{
+    border: 2px solid black;
+    display: flex-end;
+    padding: 3%;
+    
+}
+.clg-th-table{
+    padding: 2px;
+    margin: 5px;
+    border: 2px solid black;
+    
+}
+.clg-th-table td{
+    border: 2px solid black;
+    border-collapse: collapse ;
+    padding: 12px; 
+    text-align: center;
+
+    
+    
+}
+.clg-table{
+    padding: 5%;
+    border: 2px solid orange;
+}

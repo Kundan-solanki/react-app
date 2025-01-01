@@ -1,0 +1,42 @@
+#team-div{
+    border: 2px solid orangered;
+    /* margin: 80px; */
+}
+.team-th{
+   color: black;
+   padding: 10px;
+   margin: 50px;
+   border: 2px solid black;
+   border-collapse: collapse;
+
+}
+
+.team-td{
+    color: blue;
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 16px;
+}
+.team-td-e{
+   color: black;
+   border-collapse: collapse;
+   border: 2px solid black;
+   padding: 16px;
+}
+.team-td-ed{
+  padding: 16%;
+  background-color: aquamarine;
+  border: 2px solid brown;
+  margin-left: 12%;
+  color: blue;
+  
+}
+.team-td-del{
+   color: blue;
+   margin-left: 12%;
+   padding: 15%;
+   border: none;
+   background-color: white;
+   /* border: 2px solid black; */
+   /* padding-right: 20%; */
+ }
